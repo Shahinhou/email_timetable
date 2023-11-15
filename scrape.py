@@ -112,5 +112,7 @@ send_mail(''.join(lines),"shahinhoushidari@gmail.com")
 send_mail(''.join(lines),"roisindefaoite@yahoo.com")
 send_mail(''.join(lines),"cebhanhoushidari@gmail.com")
 send_mail(''.join(lines),"cebhan.houshidari2@mail.dcu.ie")
+send_mail(''.join(lines),"kate.mckenna27@mail.dcu.ie")
+
 
 print(''.join(lines))

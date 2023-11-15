@@ -1,81 +1,73 @@
 <b>Monday</b><ul><li>GET BUS AT: 6:30
 <br>
-<em>FN150[1]OC/S1/02 (Geography) </em>
-<br>
-Cúrsa Teanga 1,  02/10/2023,  Monday,  09:00,  AHC.PG10,  2h</li><li>
-<br>
-<em>FN150[1]OC/S1/05 (GG) </em>
-<br>
-Cúrsa Teanga 1,  02/10/2023,  Monday,  14:00,  AHC.SG14,  2h</li><li>
-<br>
-<em>FN150[1]OC/S1/03 (HD) </em>
-<br>
-Cúrsa Teanga 1,  02/10/2023,  Monday,  15:00,  AHC.PG01,  2h</li></ul><br><b>Tuesday</b><ul><li>GET BUS AT: 9:30
-<br>
-<em>HD109[1]OC/T1/04 Group D [Geog & MC] </em>
-<br>
-Introduction to Human Development 1,  03/10/2023,  Tuesday,  12:00,  SPC.FG09,  1h</li><li>
-<br>
-<em>HD109[1]OC/T1/02 Group B (Gaeilge] </em>
-<br>
-Introduction to Human Development 1,  03/10/2023,  Tuesday,  13:00,  SPC.F202,  1h</li><li>
-<br>
-<em>HD109[1]OC/L1/01 </em>
-<br>
-Introduction to Human Development 1,  03/10/2023,  Tuesday,  14:00,  SPC.D211,  2h</li><li>
-<br>
-<em>FN151[1]OC/L1/01 </em>
-<br>
-An Nuafhilíocht agus na hAmhráin,  03/10/2023,  Tuesday,  16:00,  SPC.F328,  1h</li><li>
-<br>
-<em>HD109[1]OC/T1/03 Group C [HY & TP] </em>
-<br>
-Introduction to Human Development 1,  03/10/2023,  Tuesday,  16:00,  SPC.F130,  1h</li><li>
-<br>
-<em>HD109[1]OC/T1/01 Group A [Eng] </em>
-<br>
-Introduction to Human Development 1,  03/10/2023,  Tuesday,  17:00,  SPC.F119,  1h</li></ul><br><b>Wednesday</b><ul><li>GET BUS AT: 6:30
-<br>
 <em>FN150[1]OC/S1/01 (English,  Music,  BAJI) </em>
 <br>
-Cúrsa Teanga 1,  04/10/2023,  Wednesday,  09:00,  AHC.PG10,  2h</li><li>
+Cúrsa Teanga 1,  01/11/2023,  Wednesday,  09:00,  AHC.PG10,  2h</li><li>
+<br>
+<em>HD113[1]OC/T1/02 Group B [Gaeilge] </em>
+<br>
+Social and Emotional Development of the Child,  01/11/2023,  Wednesday,  09:00,  SPC.F114,  1h</li><li>
+<br>
+<em>HD113[1]OC/T1/06 Group F (Gaeilge) </em>
+<br>
+Social and Emotional Development of the Child,  01/11/2023,  Wednesday,  09:00,  SPC.F130,  1h</li><li>
+<br>
+<em>HD113[1]OC/T1/01 Group A [Eng] </em>
+<br>
+Social and Emotional Development of the Child,  01/11/2023,  Wednesday,  10:00,  SPC.F114,  1h</li><li>
+<br>
+<em>HD113[1]OC/T1/04 Group D [Geog] </em>
+<br>
+Social and Emotional Development of the Child,  01/11/2023,  Wednesday,  10:00,  SPC.F130,  1h</li><li>
 <br>
 <em>HD113[1]OC/L1/01 </em>
 <br>
-Social and Emotional Development of the Child,  04/10/2023,  Wednesday,  14:00,  SPC.E223,  1h</li><li>
+Social and Emotional Development of the Child,  01/11/2023,  Wednesday,  14:00,  SPC.E223,  1h</li><li>
 <br>
 <em>HD113[1]OC/L2/01 </em>
 <br>
-Social and Emotional Development of the Child,  04/10/2023,  Wednesday,  15:00,  SPC.E223,  1h</li><li>
+Social and Emotional Development of the Child,  01/11/2023,  Wednesday,  15:00,  SPC.E223,  1h</li><li>
 <br>
 <em>FN152[1]OC/L1/01 </em>
 <br>
-Scéal na Gaeilge,  04/10/2023,  Wednesday,  16:00,  SPC.D210,  1h</li><li>
+Scéal na Gaeilge,  01/11/2023,  Wednesday,  16:00,  SPC.D210,  1h</li><li>
+<br>
+<em>HD113[1]OC/T1/05 Group E [EL) </em>
+<br>
+Social and Emotional Development of the Child,  01/11/2023,  Wednesday,  16:00,  SPC.F130,  1h</li><li>
 <br>
 <em>FN152[1]OC/L2/01 </em>
 <br>
-Scéal na Gaeilge,  04/10/2023,  Wednesday,  17:00,  SPC.D210,  1h</li></ul><br><b>Thursday</b><ul><li>GET BUS AT: 9:30
+Scéal na Gaeilge,  01/11/2023,  Wednesday,  17:00,  SPC.D210,  1h</li></ul><br><b>Tuesday</b><ul><li>GET BUS AT: 6:30
+<br>
+<em>HD113[1]OC/T1/03 Group C (HY,  MC TP) </em>
+<br>
+Social and Emotional Development of the Child,  02/11/2023,  Thursday,  09:00,  SPC.F126,  1h</li><li>
+<br>
+<em>HD113[1]OC/T1/07 Group G [GY & Gaeilge] </em>
+<br>
+Social and Emotional Development of the Child,  02/11/2023,  Thursday,  10:00,  SPC.F130,  1h</li><li>
 <br>
 <em>HD115[1]OC/L1/01 </em>
 <br>
-Social Contexts of Childhood,  05/10/2023,  Thursday,  12:00,  SPC.E214,  2h</li><li>
+Social Contexts of Childhood,  02/11/2023,  Thursday,  12:00,  SPC.E214,  2h</li><li>
 <br>
 <em>FN151[1]OC/L2/01 </em>
 <br>
-An Nuafhilíocht agus na hAmhráin,  05/10/2023,  Thursday,  14:00,  SPC.D211,  1h</li><li>
+An Nuafhilíocht agus na hAmhráin,  02/11/2023,  Thursday,  14:00,  SPC.D211,  1h</li><li>
 <br>
 <em>HD115[1]OC/T1/01 (HY,  MC & TP) </em>
 <br>
-Social Contexts of Childhood,  05/10/2023,  Thursday,  14:00,  SPC.F121,  1h</li><li>
+Social Contexts of Childhood,  02/11/2023,  Thursday,  14:00,  SPC.F121,  1h</li><li>
 <br>
 <em>HD115[1]OC/T1/03 (EL & GY) </em>
 <br>
-Social Contexts of Childhood,  05/10/2023,  Thursday,  15:00,  SPC.F121,  1h</li><li>
+Social Contexts of Childhood,  02/11/2023,  Thursday,  15:00,  SPC.F121,  1h</li><li>
 <br>
 <em>HD115[1]OC/T1/02 (Gaeilge) </em>
 <br>
-Social Contexts of Childhood,  05/10/2023,  Thursday,  16:00,  SPC.F121,  1h</li></ul><br><b>Friday</b><ul><li>GET BUS AT: 7:30
+Social Contexts of Childhood,  02/11/2023,  Thursday,  16:00,  SPC.F121,  1h</li></ul><br><b>Wednesday</b><ul><li>GET BUS AT: 7:30
 <br>
 <em>FN150[1]OC/S1/04 (History,  HD,  TRS,  PY) </em>
 <br>
-Cúrsa Teanga 1,  06/10/2023,  Friday,  10:00,  AHC.PG11,  2h</li></ul><br><b>Saturday</b><ul></ul><br><b>Sunday</b><ul></ul><br>
+Cúrsa Teanga 1,  03/11/2023,  Friday,  10:00,  AHC.PG11,  2h</li></ul><br><b>Thursday</b><ul></ul><br><b>Friday</b><ul></ul><br><b>Saturday</b><ul></ul><br><b>Sunday</b><ul></ul><br>
