@@ -17,11 +17,11 @@ today = str(datetime.datetime.now()).split()[0]
 #url = f"https://mytimetable.dcu.ie/timetables?date={today}&view=week&timetableTypeSelected=525fe79b-73c3-4b5c-8186-83c652b3adcc&searchText=fn1&selections=525fe79b-73c3-4b5c-8186-83c652b3adcc__6032d0c5-1557-861e-cb85-6ece263aaaff_4eeae590-8339-eb25-ad27-39779001d766_fd5aca8a-2471-5733-d214-000999bceb44_14cf8892-6a93-2e18-b19e-76408275829d"
 #url = f"https://mytimetable.dcu.ie/timetables?date={today}&view=agenda&timetableTypeSelected=525fe79b-73c3-4b5c-8186-83c652b3adcc&searchText=fn1&selections=525fe79b-73c3-4b5c-8186-83c652b3adcc__6032d0c5-1557-861e-cb85-6ece263aaaff_4eeae590-8339-eb25-ad27-39779001d766_fd5aca8a-2471-5733-d214-000999bceb44_14cf8892-6a93-2e18-b19e-76408275829d"
 url = f"https://mytimetable.dcu.ie/timetables?date={today}&view=agenda&timetableTypeSelected=525fe79b-73c3-4b5c-8186-83c652b3adcc&selections=525fe79b-73c3-4b5c-8186-83c652b3adcc__6032d0c5-1557-861e-cb85-6ece263aaaff_4eeae590-8339-eb25-ad27-39779001d766_fd5aca8a-2471-5733-d214-000999bceb44_14cf8892-6a93-2e18-b19e-76408275829d_78db1e2a-2ff3-9d98-22d4-1d99f79f75ab_e198c955-47c6-43da-1d1f-32a3fefe47b0_f290f4d2-2e30-c7cb-48e3-00a7e0375317_b2cabe24-b2a6-bed3-cca3-315da3eca681_37ded32a-659c-148e-79a5-5dde2bf5e72b_5e98da33-25cd-e555-c644-1946002c8f51_d7598bc4-afce-efee-26ff-bbaaf8fc074a_b88f3119-b4fd-034a-8da6-92394a7db05a&searchText=hd110"
-#options = webdriver.ChromeOptions()
-#options.add_argument("--headless=new")
+options = webdriver.ChromeOptions()
+options.add_argument("--headless=new")
 # agenda&timetable / week&timetable ??
 
-driver = webdriver.Chrome() #options=options)
+driver = webdriver.Chrome(options=options)
 
 driver.implicitly_wait(10)
 driver.get(url) #+"&searchText=comsci2")
